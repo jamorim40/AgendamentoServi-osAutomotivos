@@ -1,0 +1,19 @@
+# Pastas de build
+bin/
+obj/
+
+# Arquivos de usuário e IDE
+*.user
+*.suo
+*.vs/
+
+# Logs e banco local
+*.log
+*.db
+
+# Configurações locais
+appsettings.Local.json
+
+# Ignorar tudo na pasta temp, exceto temp/README.md
+temp/*
+!temp/README.md
